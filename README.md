@@ -38,7 +38,6 @@ Publish the website in the given URL.
 
 
 ## HOMEPAGE:
-<img width="1919" height="1161" alt="webpagepower" src="https://github.com/user-attachments/assets/68456445-680c-4217-8984-f5072cda09ac" />
 
 
 ## RESULT:
